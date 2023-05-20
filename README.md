@@ -6,7 +6,8 @@ Data Sources; https://github.com/VeritasYin/STGCN_IJCAI-18/tree/master/dataset
 
 Work Flow Chart & Work Summary; https://www.kaggle.com/code/mrsohelranapro/traffic-forecasting-graph-neural-networks-lstm
 
-Method Applied; Graph Convolution Network 
+Method Applied; Graph Convolution Network  & LSTM Combined
+![G-C-N-N](https://github.com/SohelRana-aiub-Pro/Traffic-Forecasting-Graph-neural-networks-LSTM/assets/133596903/aa8affb7-112a-4d78-89d4-01b26efa8822)
 
 
-Predicated output;
+Predicated output; ![Summary](https://github.com/SohelRana-aiub-Pro/Traffic-Forecasting-Graph-neural-networks-LSTM/assets/133596903/77e09848-f292-4945-80e2-34fd0486933b)
